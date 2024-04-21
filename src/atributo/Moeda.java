@@ -1,3 +1,7 @@
+package atributo;
+
+import modulos.Conversor;
+
 public class Moeda {
 
     private String moedaBase;

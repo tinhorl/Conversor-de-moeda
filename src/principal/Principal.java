@@ -1,3 +1,9 @@
+package principal;
+
+import modulos.Mensagens;
+import modulos.MenuConsole;
+import modulos.OpcaoDoMenu;
+
 import java.io.IOException;
 
 public class Principal {

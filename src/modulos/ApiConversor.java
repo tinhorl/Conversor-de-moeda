@@ -19,7 +19,7 @@ import com.google.gson.GsonBuilder;
 
         private String valor;
         private String url;
-        private String apiKey = "319b50175a35980b7a27c4a6";
+        private String apiKey = "SUA CHAVE DE API";
         private String moedaBase;
         private String moedaAlvo;
         Mensagens mensagens = new Mensagens();
